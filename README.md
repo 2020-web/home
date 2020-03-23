@@ -2,7 +2,7 @@
 ## 实验
 ### 实验一：服务器申请+创建VPC+Docker部署
 文档：  
-[https://github.com/2020-web/lab1_Docs-Docker_Mybatis](https://github.com/2020-web/lab1_Docs-Docker_Mybatis)  
+[https://github.com/2020-web/Lab1_Docs-Docker_VPC](https://github.com/2020-web/Lab1_Docs-Docker_VPC)  
 相关代码：  
 [https://github.com/2020-web/lab1_Code-docker_demo](https://github.com/2020-web/lab1_Code-docker_demo)
 ## 大项目
