@@ -5,6 +5,11 @@
 [https://github.com/2020-web/Lab1_Docs-Docker_VPC](https://github.com/2020-web/Lab1_Docs-Docker_VPC)  
 相关代码：  
 [https://github.com/2020-web/lab1_Code-docker_demo](https://github.com/2020-web/lab1_Code-docker_demo)
+
+### 实验二：Three.js+Socket.io
+文档：  
+[https://github.com/2020-web/Lab2.2_Docs-Three.js-Socket.io](https://github.com/2020-web/Lab2.2_Docs-Three.js-Socket.io)  
+
 ## 大项目
 任选其一  
 #### project_blockly：基于Scratch Blockly的计算思维可视化平台  
